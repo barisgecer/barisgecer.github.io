@@ -1,6 +1,6 @@
-@phdthesis{geccer2016detection,
+@phdthesis{gecer2016detection,
   title={Detection and classification of breast cancer in whole slide histopathology images using deep convolutional networks},
-  author={Ge{\c{c}}er, Bar{\i}{\c{s}}},
+  author={Gecer, Baris}},
   year={2016},
   school={Bilkent University}
 }

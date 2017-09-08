@@ -4,7 +4,7 @@
   journal={Image and Vision Computing},
   volume = {57},
   number = {},
-  pages = {165 – 174},
+  pages = {165 - 174},
   year = {2017},
   publisher={Elsevier},
   issn = {0262-8856},

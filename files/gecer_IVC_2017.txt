@@ -1,0 +1,13 @@
+@article{gecer2017color,
+  title={Color-blob-based COSFIRE filters for object recognition},
+  author={Gecer, Baris and Azzopardi, George and Petkov, Nicolai},
+  journal={Image and Vision Computing},
+  volume = {57},
+  number = {},
+  pages = {165 - 174},
+  year = {2017},
+  publisher={Elsevier},
+  issn = {0262-8856},
+  doi = {http://dx.doi.org/10.1016/j.imavis.2016.10.006},
+  url = {http://www.sciencedirect.com/science/article/pii/S0262885616301895},
+}

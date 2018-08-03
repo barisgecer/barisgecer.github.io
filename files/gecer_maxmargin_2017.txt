@@ -1,6 +1,6 @@
 @article{gecer2017maxmargin,
   title={Learning Deep Convolutional Embeddings for Face Representation Using Joint Sample- and Set-based Supervision},
   author={Gecer, Baris and Balntas,Vassileios and Kim, Tae-Kyun},
-  journal={arXiv preprint arXiv:1708.00277},
+  journal={ICCVW},
   year={2017}
 }

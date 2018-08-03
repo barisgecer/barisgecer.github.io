@@ -1,0 +1,12 @@
+@article{gecer2018breast,
+title = "Detection and classification of cancer in whole slide breast histopathology images using deep convolutional networks",
+journal = "Pattern Recognition",
+volume = "84",
+pages = "345 - 356",
+year = "2018",
+issn = "0031-3203",
+doi = "https://doi.org/10.1016/j.patcog.2018.07.022",
+url = "http://www.sciencedirect.com/science/article/pii/S0031320318302577",
+author = "Baris Gecer and Selim Aksoy and Ezgi Mercan and Linda G. Shapiro and Donald L. Weaver and Joann G. Elmore",
+keywords = "Digital pathology, Breast histopathology, Whole slide imaging, Region of interest detection, Saliency detection, Multi-class classification, Deep learning"
+}

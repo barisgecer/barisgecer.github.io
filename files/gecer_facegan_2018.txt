@@ -1,6 +1,7 @@
-@article{gecer2018facegan,
-  title={Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model},
+@inproceedings{gecer2018semi,
+  title={Semi-supervised adversarial learning to generate photorealistic face images of new identities from 3D morphable model},
   author={Gecer, Baris and Bhattarai, Binod and Kittler, Josef and Kim, Tae-Kyun},
-  journal={ECCV},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={217--234},
   year={2018}
 }

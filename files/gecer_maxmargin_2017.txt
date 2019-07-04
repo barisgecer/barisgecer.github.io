@@ -1,6 +1,7 @@
-@article{gecer2017maxmargin,
-  title={Learning Deep Convolutional Embeddings for Face Representation Using Joint Sample- and Set-based Supervision},
-  author={Gecer, Baris and Balntas,Vassileios and Kim, Tae-Kyun},
-  journal={ICCVW},
-  year={2017}
+@InProceedings{Gecer_2017_ICCV,
+author = {Gecer, Baris and Balntas, Vassileios and Kim, Tae-Kyun},
+title = {Learning Deep Convolutional Embeddings for Face Representation Using Joint Sample- and Set-Based Supervision},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2017}
 }
